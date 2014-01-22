@@ -17,4 +17,4 @@ no_index:
     - inc
 resources:
   repository: https://github.com/shlomif/perl-Class-Generate.git
-version: 1.12
+version: 1.13
